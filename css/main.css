@@ -3294,6 +3294,7 @@ tbody.collapse.show {
   display: block; }
 
 .navbar {
+  background-color: white;
   position: relative;
   display: -webkit-box;
   display: -ms-flexbox;

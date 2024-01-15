@@ -16,3 +16,7 @@ function reveal() {
   
   window.addEventListener("scroll", reveal);
 reveal();
+
+function NavBarBurguer(x){
+  x.classList.toggle("switch");
+}
